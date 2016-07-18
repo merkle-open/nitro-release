@@ -1,0 +1,29 @@
+{
+  "name": "nitro-release",
+  "version": "0.0.0",
+  "description": "An release package for nitro. Manage your releases with ease.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namics/nitro-release.git"
+  },
+  "keywords": [
+    "nitro",
+    "release"
+  ],
+  "author": "Christian Stuff <christianstuff90@gmail.com> (http://github.com/Regaddi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namics/nitro-release/issues"
+  },
+  "homepage": "https://github.com/namics/nitro-release#readme",
+  "dependencies": {
+    "@namics/eslint-config": "^0.x",
+    "gulp-bump": "^2.2.0",
+    "gulp-git": "^1.8.0",
+    "yargs": "^4.8.1"
+  }
+}
