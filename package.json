@@ -4,7 +4,7 @@
   "description": "An release package for nitro. Manage your releases with ease.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "./node_modules/.bin/eslint ."
   },
   "repository": {
     "type": "git",
@@ -21,9 +21,12 @@
   },
   "homepage": "https://github.com/namics/nitro-release#readme",
   "dependencies": {
-    "@namics/eslint-config": "^0.x",
     "gulp-bump": "^2.2.0",
     "gulp-git": "^1.8.0",
     "yargs": "^4.8.1"
+  },
+  "devDependencies": {
+    "@namics/eslint-config": "^1.0.0",
+    "eslint": "^3.1.1"
   }
 }
