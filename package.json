@@ -22,7 +22,7 @@
   "homepage": "https://github.com/namics/nitro-release#readme",
   "dependencies": {
     "gulp-bump": "^2.2.0",
-    "gulp-git": "^1.8.0",
+    "gulp-git": "^1.10.0",
     "yargs": "^4.8.1"
   },
   "devDependencies": {

@@ -17,6 +17,8 @@ All possibilities in examples:
     $ gulp release --bump=patch
     \> Version bumped from 1.0.0 -> 1.0.1
 
+The release configuration can be found in [config.json](//github.com/namics/generator-nitro/app/templates/config.json).
+
 ## Configuration options
 
 ### release.bumpFiles (Array)
