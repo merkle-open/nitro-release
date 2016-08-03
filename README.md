@@ -45,7 +45,7 @@ Defines, if a commit should be pushed automatically. Only pushes, if `commit` is
 
 ### release.pushBranch (String)
 
-Defines the branch, which should be pushed. This should be the nae of the branch, where the release happens.
+Defines the branch, which should be pushed. This should be the name of the branch, where the release happens.
 
 - example: `"master"`
 

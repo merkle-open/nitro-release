@@ -1,7 +1,7 @@
 {
   "name": "nitro-release",
   "version": "0.0.1",
-  "description": "An release package for nitro. Manage your releases with ease.",
+  "description": "A release package for nitro. Manage your releases with ease.",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
