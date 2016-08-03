@@ -1,6 +1,6 @@
 {
   "name": "nitro-release",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A release package for nitro. Manage your releases with ease.",
   "main": "index.js",
   "scripts": {
