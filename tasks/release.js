@@ -33,7 +33,7 @@ module.exports = function (gulp, config) {
 					.on('end', () => {
 						pkg = JSON.parse(fs.readFileSync(`${config.nitro.base_path}package.json`, {
 							encoding: 'utf-8',
-							flag: 'r'
+							flag: 'r',
 						}));
 						resolve();
 					});
