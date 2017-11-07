@@ -1,6 +1,6 @@
 {
   "name": "nitro-release",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A release package for nitro. Manage your releases with ease.",
   "main": "index.js",
   "scripts": {
@@ -21,13 +21,13 @@
   },
   "homepage": "https://github.com/namics/nitro-release#readme",
   "dependencies": {
-    "gulp-bump": "^2.2.0",
-    "gulp-git": "^2.4.0",
-    "yargs": "^8.0.1"
+    "gulp-bump": "2.8.0",
+    "gulp-git": "2.4.2",
+    "yargs": "10.0.3"
   },
   "devDependencies": {
-    "@namics/eslint-config": "^2.3.0",
-    "eslint": "^3.19.0",
-    "eslint-plugin-import": "^2.3.0"
+    "@namics/eslint-config": "4.2.0",
+    "eslint": "4.10.0",
+    "eslint-plugin-import": "2.8.0"
   }
 }
