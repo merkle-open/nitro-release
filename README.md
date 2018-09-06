@@ -1,6 +1,8 @@
+This package hasn't been under active development since about November 2017. It still works with nitro versions < 4.0.0.
+
 # nitro-release
 
-With this package, Nitro can produce releases by using `gulp release` on the CLI.
+With this package, Nitro < 4 can produce releases by using `gulp release` on the CLI.
 You can influence the version bump by using the `--bump` option.
 
 All possibilities in examples:
